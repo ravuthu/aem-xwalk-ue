@@ -1,0 +1,5 @@
+mountpoints:
+  /:
+    url: "https://author-p153373-e1601803.adobeaemcloud.com/bin/franklin.delivery/ravuthu/aem-xwalk-ue/main"
+    type: "markup"
+    suffix: ".html"
